@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LatihanRV</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="simpan">Simpan</string>
+    <string name="batal">Batal</string>
+    <string name="id">12</string>
+    <string name="phone">Phone</string>
+</resources>
